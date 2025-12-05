@@ -9,7 +9,7 @@ Je suis passionnée par l'**Art-Thérapie** et l'univers du **Coloriage Mystère
 Retrouvez-moi principalement sur ces plateformes pour échanger des conseils, des astuces et de la bonne humeur !
 
 * **🔴 Live TikTok :** Je vous y retrouve en direct pour les sessions de coloriage !
-    * [https://www.tiktok.com/@shiracolor](https://www.tiktok.com/@shiracolor)
+    * [https://www.tiktok.com/@shiracolor]
 
 * **💬 Discord "Les Crayons en l'Air !" :** C'est notre QG communautaire pour continuer la discussion, partager nos créations, et discuter de nos matériaux.
     * [https://discord.gg/PKH9QmMnTM]
@@ -27,7 +27,7 @@ Ce que vous trouverez dans mes répertoires :
 
 Je m'assure que les liens et les outils que je mets à disposition (comme les pages de nuanciers) sont toujours fonctionnels.
 
-* **Statut des services :** [Lien vers votre page de statut UptimeRobot]
+* **Statut des services :** [https://stats.uptimerobot.com/TsZUZAM0zm]
 
 ---
 
