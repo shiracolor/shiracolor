@@ -1,39 +1,29 @@
 # Bienvenue chez ShiraColor ! 🎨✨
 
-Je suis une **créatrice de contenu** passionnée par l'**Art-Thérapie** et l'univers infini des **Coloriages Mystères**. Ce profil GitHub est le portail central où je partage les outils, ressources et guides conçus pour notre communauté créative.
+Bonjour à tous ! Je suis ravie de vous accueillir sur cet espace. 
+
+Passionnée par le coloriage et l'art-thérapie, j'aime partager ces moments de détente avec vous. Ce profil GitHub est simplement un petit point de repère pour vous permettre de retrouver facilement les plateformes où je suis active.
 
 ---
 
-### 🌟 Rejoindre l'Aventure
-Envie de partager vos coloriages, échanger sur le matériel ou simplement passer un moment convivial ? Retrouvez-moi ici :
+### 🌟 Retrouvons-nous ici
 
-*   **🔴 Live TikTok :** Rejoignez-moi en direct pour des sessions coloriage et détente.
-    *   [Suivre sur TikTok](https://www.tiktok.com/@shiracolor)
-*   **💬 Discord "Les Crayons en l'Air !" :** Notre QG communautaire pour discuter techniques, matériaux et organiser nos projets communs.
-    *   [Rejoindre le serveur Discord](https://discord.gg/PKH9QmMnTM)
+Pour échanger, partager nos créations ou simplement discuter de nos dernières trouvailles, c'est par ici que ça se passe :
 
----
-
-### 🛠️ Mes Ressources Créatives (GitHub)
-Ici, je centralise les outils pour faciliter votre pratique :
-
-*   **📊 Nuanciers & Codes Couleurs :** Bases de données et guides pour ne plus jamais hésiter sur vos choix de feutres.
-*   **📝 Conseils & Fiches :** Guides d'organisation et ressources pour l'Art-Thérapie.
-*   **🤖 Wallee Manager :** Découvrez le code derrière notre assistant Discord collaboratif [disponible ici](https://github.com/shiracolor/Wallee-Manager).
+*   **🔴 Live TikTok :** Je vous y retrouve régulièrement pour colorier ensemble dans la bonne humeur.
+    *   [Rejoindre mes lives](https://www.tiktok.com/@shiracolor)
+*   **💬 Discord "Les Crayons en l'Air !" :** Notre petit cocon communautaire pour partager nos passions en toute bienveillance.
+    *   [Rejoindre notre communauté](https://discord.gg/PKH9QmMnTM)
+*   **✨ Mes ressources & liens :** Pour retrouver tout le contenu que je propose, n'hésitez pas à consulter mon Linktree ou mon Ko-fi.
+    *   [Lien vers mon Linktree](https://linktr.ee/shiracolor)
 
 ---
 
-### 🚀 État des Services
-Je veille à ce que les ressources que je partage restent accessibles et fonctionnelles.
+### 🛠️ État de mes services
+Parce que j'ai à cœur que vous puissiez toujours accéder facilement à nos espaces d'échange, je surveille leur accessibilité ici :
 
-*   **🩺 Statut de mes services :** [Vérifier la disponibilité en temps réel](https://stats.uptimerobot.com/TsZUZAM0zm)
-
----
-
-### 🐾 À propos
-Passionnée par le partage, je suis toujours à l'affût de nouvelles façons d'organiser mes coloriages et de rendre l'art accessible à tous. 
-
-*Au plaisir de vous retrouver en Live ou sur Discord !*
+*   **🩺 Suivi en temps réel :** [Voir le statut de nos plateformes](https://stats.uptimerobot.com/TsZUZAM0zm)
 
 ---
-*Dernière mise à jour : Mai 2026*
+
+*Merci à vous de faire vivre cette belle communauté au quotidien. Au plaisir de vous retrouver très vite pour un moment créatif !* 🐾
