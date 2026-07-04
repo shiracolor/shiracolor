@@ -1,6 +1,6 @@
 # Bienvenue chez ShiraColor ! 🎨✨
 
-Bonjour ! Je suis **Shira**, créatrice de contenu dédiée à l'art-thérapie et à l'univers des Colorimys Mystères. Mon approche allie passion créative et rigueur technique pour animer et structurer des communautés passionnées.
+Bonjour ! Je suis **Shira**, créatrice de contenu dédiée à l'art-thérapie et à l'univers du Coloriage Mystères. Mon approche allie passion créative et rigueur technique pour animer et structurer des communautés passionnées.
 
 ---
 
